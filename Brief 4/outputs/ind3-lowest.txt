@@ -1,0 +1,18 @@
+\caption{Lowest 10: Proximity score by industry (0 = lowest exposure).}\label{tab:3-digit-top}
+\footnotesize
+\begin{tabular*}{0.8\textwidth}{lp{3in}@{\extracolsep{\fill}}cc}
+\toprule
+Code & Industry & Score & Emp. share \\
+\midrule
+551&Management of companies and enterprises&52.6&2.4\\
+425&Wholesale electronic markets and agents and brokers&52.5&0.2\\
+541&Professional, scientific, and technical services&52.5&4.0\\
+533&Lessors of nonfinancial intangible assets (except copyrighted works)&52.3&0.0\\
+519&Other information services&51.7&0.0\\
+511&Publishing industries (except internet)&51.6&0.3\\
+518&Data processing, hosting, and related services&50.5&0.3\\
+493&Warehousing and storage&50.2&0.5\\
+523&Securities, commodity contracts, and other financial investments and related activities&50.2&0.4\\
+113&Forestry and logging&35.0&0.0\\
+\bottomrule
+\end{tabular*}

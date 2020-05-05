@@ -1,0 +1,18 @@
+\caption{Highest 10: Proximity score by industry (0 = lowest exposure).}\label{tab:3-digit-top}
+\footnotesize
+\begin{tabular*}{0.8\textwidth}{lp{3in}@{\extracolsep{\fill}}cc}
+\toprule
+Code & Industry & Score & Emp. share \\
+\midrule
+623&Nursing and residential care facilities&81.1&2.9\\
+622&Hospitals&77.2&4.4\\
+624&Social assistance&76.5&3.1\\
+621&Ambulatory health care services&75.4&4.5\\
+812&Personal and laundry services&74.4&1.0\\
+446&Health and personal care stores&73.8&0.6\\
+722&Food services and drinking places&72.8&7.7\\
+512&Motion picture and sound recording industries&71.8&0.1\\
+485&Transit and ground passenger transportation&70.9&0.6\\
+492&Couriers and messengers&70.8&0.3\\
+\bottomrule
+\end{tabular*}

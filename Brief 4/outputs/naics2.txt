@@ -1,0 +1,32 @@
+\caption{Proximity score by industry (0 = lowest exposure).}\label{tab:2-digit}
+\footnotesize
+\begin{tabular*}{0.8\textwidth}{cl@{\extracolsep{\fill}}cc}
+\toprule
+Code & Industry & Score & Emp. share\\
+\midrule
+62&Health care and social assistance&77.3&14.9\\
+72&Accommodation and food services&71.1&8.9\\
+48&Transportation&67.7&2.5\\
+71&Arts, entertainment, and recreation&66.9&1.6\\
+61&Educational services&65.6&8.0\\
+23&Construction&65.5&4.5\\
+81&Other services (except public administration)&64.9&2.8\\
+44&Specialize retail&63.5&7.1\\
+21&Mining, quarrying, and oil and gas extraction&63.0&0.1\\
+45&General merchandise retail&62.5&3.5\\
+99&Federal, state, local government&62.0&5.7\\
+22&Utilities&59.0&0.3\\
+53&Real estate and rental and leasing&58.9&0.9\\
+49&Couriers, warehousing, storage&58.1&1.2\\
+31&Food, textiles, apparel manufacturing&58.0&2.9\\
+33&Metal, computer, electrical, transport manufacturing&55.9&8.7\\
+56&Administrative support&55.4&5.2\\
+51&Information&55.3&1.2\\
+32&Wood, paper, petroleum, chemical, mineral manufacturing&55.2&4.8\\
+42&Wholesale trade&54.9&4.4\\
+52&Finance and insurance&52.9&4.4\\
+55&Management of companies and enterprises&52.6&2.4\\
+54&Professional, scientific, and technical services&52.5&4.0\\
+11&Agriculture, forestry, fishing and hunting&49.8&0.1\\
+\bottomrule
+\end{tabular*}
